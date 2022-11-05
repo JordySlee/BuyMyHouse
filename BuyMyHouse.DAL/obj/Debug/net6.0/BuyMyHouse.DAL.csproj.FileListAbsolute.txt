@@ -1,0 +1,17 @@
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\bin\Debug\net6.0\BuyMyHouse.DAL.deps.json
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\bin\Debug\net6.0\BuyMyHouse.DAL.runtimeconfig.json
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\bin\Debug\net6.0\BuyMyHouse.DAL.dll
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\bin\Debug\net6.0\BuyMyHouse.DAL.pdb
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\bin\Debug\net6.0\BuyMyHouse.Model.dll
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\bin\Debug\net6.0\BuyMyHouse.Model.pdb
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\obj\Debug\net6.0\BuyMyHouse.DAL.csproj.AssemblyReference.cache
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\obj\Debug\net6.0\BuyMyHouse.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\obj\Debug\net6.0\BuyMyHouse.DAL.AssemblyInfoInputs.cache
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\obj\Debug\net6.0\BuyMyHouse.DAL.AssemblyInfo.cs
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\obj\Debug\net6.0\BuyMyHouse.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\obj\Debug\net6.0\BuyMyHouse.DAL.csproj.CopyComplete
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\obj\Debug\net6.0\BuyMyHouse.DAL.dll
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\obj\Debug\net6.0\refint\BuyMyHouse.DAL.dll
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\obj\Debug\net6.0\BuyMyHouse.DAL.pdb
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\obj\Debug\net6.0\BuyMyHouse.DAL.genruntimeconfig.cache
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.DAL\obj\Debug\net6.0\ref\BuyMyHouse.DAL.dll

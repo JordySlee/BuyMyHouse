@@ -1,0 +1,12 @@
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.Model\bin\Debug\net6.0\BuyMyHouse.Model.deps.json
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.Model\bin\Debug\net6.0\BuyMyHouse.Model.dll
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.Model\bin\Debug\net6.0\BuyMyHouse.Model.pdb
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.Model\obj\Debug\net6.0\BuyMyHouse.Model.csproj.AssemblyReference.cache
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.Model\obj\Debug\net6.0\BuyMyHouse.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.Model\obj\Debug\net6.0\BuyMyHouse.Model.AssemblyInfoInputs.cache
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.Model\obj\Debug\net6.0\BuyMyHouse.Model.AssemblyInfo.cs
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.Model\obj\Debug\net6.0\BuyMyHouse.Model.csproj.CoreCompileInputs.cache
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.Model\obj\Debug\net6.0\BuyMyHouse.Model.dll
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.Model\obj\Debug\net6.0\refint\BuyMyHouse.Model.dll
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.Model\obj\Debug\net6.0\BuyMyHouse.Model.pdb
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.Model\obj\Debug\net6.0\ref\BuyMyHouse.Model.dll

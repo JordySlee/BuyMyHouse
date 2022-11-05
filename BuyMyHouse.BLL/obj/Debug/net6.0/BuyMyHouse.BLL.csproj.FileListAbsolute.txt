@@ -1,0 +1,17 @@
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\bin\Debug\net6.0\BuyMyHouse.BLL.deps.json
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\bin\Debug\net6.0\BuyMyHouse.BLL.dll
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\bin\Debug\net6.0\BuyMyHouse.BLL.pdb
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\bin\Debug\net6.0\BuyMyHouse.DAL.dll
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\bin\Debug\net6.0\BuyMyHouse.Model.dll
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\bin\Debug\net6.0\BuyMyHouse.DAL.pdb
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\bin\Debug\net6.0\BuyMyHouse.Model.pdb
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\obj\Debug\net6.0\BuyMyHouse.BLL.csproj.AssemblyReference.cache
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\obj\Debug\net6.0\BuyMyHouse.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\obj\Debug\net6.0\BuyMyHouse.BLL.AssemblyInfoInputs.cache
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\obj\Debug\net6.0\BuyMyHouse.BLL.AssemblyInfo.cs
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\obj\Debug\net6.0\BuyMyHouse.BLL.csproj.CoreCompileInputs.cache
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\obj\Debug\net6.0\BuyMyHouse.BLL.csproj.CopyComplete
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\obj\Debug\net6.0\BuyMyHouse.BLL.dll
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\obj\Debug\net6.0\refint\BuyMyHouse.BLL.dll
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\obj\Debug\net6.0\BuyMyHouse.BLL.pdb
+C:\Users\jordy\source\repos\BuyMyHouse\BuyMyHouse.BLL\obj\Debug\net6.0\ref\BuyMyHouse.BLL.dll
